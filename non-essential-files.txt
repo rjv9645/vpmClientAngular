@@ -1,0 +1,14 @@
+.git
+.gitignore
+.travis.yml
+*.spec*.ts
+bs-config.e2e.json
+e2e
+favicon.ico
+karma.conf.js
+karma-test-shim.js
+LICENSE
+non-essential-files.txt
+non-essential-files.osx.txt
+protractor.config.js
+
